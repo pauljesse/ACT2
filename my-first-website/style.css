@@ -1,0 +1,60 @@
+body
+{
+    margin: 0;
+}
+.header-background{
+    background-color: silver;
+    background-size: cover;
+}
+
+.container{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    padding: 100px 0;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-radius: 50;
+}
+
+.header-me {font-family: 'Raleway', sans-serif; 
+    font-weight: lighter;
+    font-size: 50px; 
+    text-align: center; 
+    margin-bottom: 0;}
+.position {font-family: 'Raleway', sans-serif; 
+    font-weight: lighter;
+    font-size: 30px; 
+    line-height: 0px; 
+    text-align: center; 
+    margin-top: 0;}
+.intro {font-family: 'Raleway', sans-serif; 
+    font-weight: lighter;
+    font-size: 15px; 
+    line-height: 0px; 
+    text-align: justify; 
+    margin-top: 0; 
+}
+
+.iconHome{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.about{
+    font-family: 'Raleway', sans-serif; 
+    font-weight: lighter;
+    font-size: 15px; 
+    position: absolute;
+    top: 10px;
+    right: 100px;
+}
+.skills{
+    font-family: 'Raleway', sans-serif; 
+    font-weight: lighter;
+    font-size: 15px; 
+    position: absolute;
+    top: 10px;
+    right: 30px
+}
